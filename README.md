@@ -6,7 +6,7 @@
 
 pratice arrays
 
- 1.6 times
+ 1.5 times
 
  2. ellipse(x[i], y[i], 1 + (x.length - i)); change this code, "1 + (x.length - i)" or
  
